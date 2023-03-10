@@ -4396,6 +4396,12 @@
       "config_flow": true,
       "iot_class": "local_polling"
     },
+    "rafhw": {
+      "name": "rafesp",
+      "integration_type": "hub",
+      "config_flow": true,
+      "iot_class": "local_push"
+    },
     "rainbird": {
       "name": "Rain Bird",
       "integration_type": "hub",
